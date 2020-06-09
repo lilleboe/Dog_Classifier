@@ -6,7 +6,7 @@
 
 
 ## Project Overview
-This project uses Convolutional Neural Networks (CNNs) to detect various dog breeds. The project builds a pipeline to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+The project uses Convolutional Neural Networks (CNNs) to detect various dog breeds. The project builds a pipeline to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 ![Sample Output][image1]
 
